@@ -26,7 +26,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou apaixonada por tecnologia, desenvolvim
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devgigifaGitHub&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devgigifa&show_icons=true&theme=radical)
 
 ## 🔗 Como me encontrar
 
