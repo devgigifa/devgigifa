@@ -2,7 +2,7 @@
 
 IT professional with hands-on experience in software development, API integration, databases, and business processes. I build practical projects that combine software engineering, data analysis, and artificial intelligence.
 
-## 🚀 Sobre mim
+## About me
 
 - 🎓 Degree in IT Management — Universidade Estácio de Sá (2026)
 - 💻 Experience with React, Node.js, TypeScript, JavaScript, Python, PostgreSQL, MySQL, and REST APIs
