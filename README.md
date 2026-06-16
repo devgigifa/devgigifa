@@ -40,10 +40,6 @@ IT professional with hands-on experience in software development, API integratio
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## GitHub Statistics
-
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=devgigifa&show_icons=true&theme=radical)
-
 ## 🔗 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)
